@@ -1,0 +1,19 @@
+{
+  "minecraft": {
+    "version": "1.18.2",
+    "modLoaders": [
+      {
+        "id": "fabric-0.13.3",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Faster Than Light",
+  "version": "1.4",
+  "author": "lalamapaka",
+  "projectID": 0,
+  "files": [],
+  "overrides": "overrides"
+}
