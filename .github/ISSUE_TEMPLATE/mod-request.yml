@@ -66,7 +66,7 @@ body:
 
 - type: dropdown
   attributes:
-    label: Is it compatible with fabric?
+    label: "Is it compatible with fabric?"
     description: 'Yes' or 'No'
     multiple: false
     options:
