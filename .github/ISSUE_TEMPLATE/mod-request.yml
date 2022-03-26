@@ -16,7 +16,6 @@ body:
 - type: input
   attributes:
     label: Link to the mod
-time to be included.
   validations:
     required: true
 
