@@ -40,14 +40,3 @@ body:
     description: Anything else you want to say to convince me?
   validations:
     required: false
-
-- type: dropdown
-  attributes:
-    label: Does it have any conflicts with other mods?
-    description: 'Yes' or 'No'
-    multiple: false
-    options:
-      - 'Yes'
-      - 'No'
-  validations:
-    required: true
