@@ -67,21 +67,21 @@ body:
 - type: dropdown
   attributes:
     label: Is it compatible with fabric?
-    description: Yes or no
+    description: 'Yes' or 'No'
     multiple: false
     options:
-      - Yes
-      - No
+      - 'Yes'
+      - 'No'
   validations:
     required: true
 
 - type: dropdown
   attributes:
     label: Is it compatible with the latest reloase of Minecraft?
-    description: Yes or no
+    description: 'Yes' or 'No'
     multiple: false
     options:
-      - Yes
-      - No
+      - 'Yes'
+      - 'No'
   validations:
     required: true
