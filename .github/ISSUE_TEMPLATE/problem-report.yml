@@ -1,0 +1,79 @@
+name: Bug/Crash report
+description: Report an problem with the modpack
+labels: option
+body:
+- type: markdown
+  attributes:
+    value: |
+      If it is a crash and you know what mod caused it, please don't report the issue to this modpack. Submit the issue to that mod.
+
+- type: textarea
+  attributes:
+    label: Describe the bug
+    description: A short description of the issue.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Expected behavior
+    description: What did you expect to see.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Actual behavior
+    description: What did you see.
+  validations:
+      required: true
+
+- type: textarea
+  attributes:
+    label: Steps To Reproduce
+    description: Steps to reproduce the crash/bug.
+    placeholder: |
+      1. Launched Minecraft
+      2. Did something
+      3. Crash/bug
+  validations:
+    required: true
+
+- type: input
+  attributes:
+    label: Modpack version
+    description: What version of the modpack are you using?
+    placeholder: Latest is not a version by the time I read this there may be another version.
+  validations:
+    required: true
+
+- type: dropdown
+  attributes:
+    label: Launcher
+    description: Which launcher are you using?
+    options:
+      - Curseforge Launcher
+      - GDLauncher
+      - Other (please write below)
+  validations:
+    required: true
+
+- type: dropdown
+  attributes:
+    label: Installalation method
+    description: How did you install the modpack?
+    options:
+      - Just installed/new profile
+      - Updated the modpack to a new version (what version to what version?)
+      - Using custom mods/something else (please write below)
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Additional context
+    description: Optionally add screenshots, video or any other information. If it is a crash, please post the crash report to [Pastebin](https://pastebin.com) and add the link here.
+    placeholder: |
+      Tip: You can attach images or crash report files dragging files in this area.
+  validations:
+    required: false

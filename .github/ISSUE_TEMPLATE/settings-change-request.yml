@@ -1,0 +1,53 @@
+name: Setting change
+description: Suggest keybind/config change
+labels: settings change
+body:
+- type: markdown
+  attributes:
+    value: |
+      Before you suggest keybind/config change, [please search](https://github.com/lalamapaka/faster-than-light/issues) if it has already been suggested.
+
+- type: textarea
+  attributes:
+    label: What config/keybind to change
+    description: Describe the settings change you in the modpack.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Why should it be in the Faster than light
+    description: How can everyone profit from the mod while keeping the experience "vanilla-ish"?
+  validations:
+    required: true
+
+- type: dropdown
+  attributes:
+    label: Category
+    description: Select the type suggestion.
+    multiple: false
+    options:
+      - Vanilla option
+      - Mod config option
+      - Changed keybind
+      - Other
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Other details
+    description: Anything else you want to say to convince me?
+  validations:
+    required: false
+
+- type: dropdown
+  attributes:
+    label: Does it have any conflicts with other mods?
+    description: Yes or no
+    multiple: false
+    options:
+      - Yes
+      - No
+  validations:
+    required: true

@@ -1,0 +1,88 @@
+name: Mod suggestion
+description: Suggest an mod for this modpack
+labels: mod
+body:
+- type: markdown
+  attributes:
+    value: |
+      Before you suggest a mod, [please search](https://github.com/lalamapaka/faster-than-light/issues) if it has already been suggested.
+
+- type: input
+  attributes:
+    label: Mod name
+  validations:
+    required: true
+
+- type: input
+  attributes:
+    label: Link to the mod
+time to be included.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: What does it do
+    description: What does the mod do.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Why should it be in the Faster than light
+    description: How can everyone profit from the mod while keeping the experience "vanilla-ish"?
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Why should it not be in the modpack
+    description: Don't forget to include any disadvantages of the mod.
+    placeholder: |
+      Examples: Still in alpha, ...
+  validations:
+      required: true
+
+- type: dropdown
+  attributes:
+    label: Categories
+    description: Select all that match the mod.
+    multiple: true
+    options:
+      - Performance improvements
+      - Graphics improvements
+      - New feature
+      - Works like Optifine/Forge/etc
+      - Fixes a bug
+      - Replaces an already existing mod
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Other details
+    description: Anything else you want to say to convince me?
+  validations:
+    required: false
+
+- type: dropdown
+  attributes:
+    label: Is it compatible with fabric?
+    description: Yes or no
+    multiple: false
+    options:
+      - Yes
+      - No
+  validations:
+    required: true
+
+- type: dropdown
+  attributes:
+    label: Is it compatible with the latest reloase of Minecraft?
+    description: Yes or no
+    multiple: false
+    options:
+      - Yes
+      - No
+  validations:
+    required: true
