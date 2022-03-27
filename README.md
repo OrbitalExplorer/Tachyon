@@ -24,6 +24,28 @@ This is the official github from Faster than light.
 
 ### More Launcher support coming soon™
 
+## Capes
+
+<details>
+  <summary>Registration (Minecraft Capes)</summary>
+  <p>1. Join the minecraft server already in the multiplayer list</p>
+  <p>2. Go to https://minecraftcapes.net</p>
+  <p>3. Click on Register</p>
+  <p>4. Enter the code you got from the minecraft server</p>
+  <p>5. Make a password and remember it ofc</p>
+  <p>6. Click on Upload a cape or click on gallery in the top right(Recommended)</p>
+  <p>7. Choose your cape</p>
+  <p>8. Follow the Activation steps below</p>
+  <p>For an instruction video check this: https://youtu.be/xeJoaxJcM9w?t=435 until 9:50 then follow the Activation steps</p>
+</details>
+
+<details>
+  <summary>Activation</summary>
+  <p>1. Go to "Skin Customization" in Minecraft</p>
+  <p>2. Press the icon of the player with a cape in the top left</p>
+  <p>3. Select your type of cape (For Minecraft Capes choose Minecraft Capes)</p>
+</details>
+
 ## Mods
 
 ### Performance
