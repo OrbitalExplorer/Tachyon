@@ -54,7 +54,7 @@ Modname  | Description
 [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds)  | Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer.
 [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend)  | Improves and fixes biome color blending
 [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric)  | Better fps for 1.16+ minecraft, improved render distances
-[C^2M-Engine](https://github.com/RelativityMC/C2ME-fabric)  | A Fabric mod designed to improve the chunk performance of Minecraft.
+[C^2M-Engine](https://www.curseforge.com/minecraft/mc-mods/c2me-fabric)  | A Fabric mod designed to improve the chunk performance of Minecraft.
 [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)  | Clumps XP orbs together to reduce lag
 [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)  | Adds culling to leaf blocks, providing a huge performance boost over vanilla.
 [Dynapic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)  | Improve performance when Minecraft is in the background
