@@ -54,6 +54,7 @@ Modname  | Description
 [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds)  | Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer.
 [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend)  | Improves and fixes biome color blending
 [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric)  | Better fps for 1.16+ minecraft, improved render distances
+[Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby)  | Allows for render distances greater than the server's view-distance setting.
 [C^2M-Engine](https://www.curseforge.com/minecraft/mc-mods/c2me-fabric)  | A Fabric mod designed to improve the chunk performance of Minecraft.
 [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)  | Clumps XP orbs together to reduce lag
 [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)  | Adds culling to leaf blocks, providing a huge performance boost over vanilla.
@@ -84,7 +85,6 @@ Modname  | Description
 [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person)  | Improves third-person camera view.
 [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric)  | Adds a blur effect to all GUI backgrounds - now for Fabric!
 [Better Recipe Book (BRB)](https://www.curseforge.com/minecraft/mc-mods/brb)  | Adds a few quality of life changes to the recipe book.
-[Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes)  | Lets you use capes from OptiFine, LabyMod and other cape mods
 [Custom Entity Models (CEM)](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem)  | An implementation of custom entity models heavily based off of Optifine's format that aims to achieve feature parity with Optifine's custom entity models.
 [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)  | Re-implements MCPatcher's CIT (custom item textures from optifine resource packs)
 [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic)  | Now you can customize Minecraft's hardcoded colors with a resource pack.
@@ -95,16 +95,20 @@ Modname  | Description
 [Dynamic Sound Filters](https://www.curseforge.com/minecraft/mc-mods/dynamic-sound-filters)  | Adds sound filters based on current surroundings
 [Eating Animation](https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric)  | Mod adds sprite animation when you eat or drink
 [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)  | Custom, Emissive and Varied mobs like Optifine and so much more.. +Player skin features!)
+[Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes)  | Lets you use capes from OptiFine, LabyMod and other cape mods
+[Hat List](https://www.curseforge.com/minecraft/mc-mods/hat-list)  | Show the hat layer on tab list
 [Item Borders](https://www.curseforge.com/minecraft/mc-mods/item-borders-fabric)  | Add colored borders to inventory slots to make your rare items stand out!
 [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps)  | An overly complicated sound mod
 [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass)  | Adds better grass and snow to the game.
 [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)  | A dynamic lights mod for Fabric.
 [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)  | Enhances inventory management by adding various functions to the mouse buttons.
 [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)  | Bringing first-person animations to the third-person
+[Respackopts](https://www.curseforge.com/minecraft/mc-mods/respackopts)  | Config screens for resource packs
 [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)  | Render the player skin layer in 3d!
 [Smooth Swapping](https://www.curseforge.com/minecraft/mc-mods/smooth-swapping)  | Moves items smoothly in inventories
 [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)  | Sound Physics Remastered
 [Wavey Capes](https://www.curseforge.com/minecraft/mc-mods/waveycapes)  | The cape shouldn't be a static slab
+[Why Am I on Fire](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire)  | Hides the obstructive fire overlay when it's not needed
 
 ### Utility
 Modname  | Description
@@ -116,6 +120,7 @@ Modname  | Description
 [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining)  | Changes Fullscreen to use a borderless window.
 [Better Sodium Video Settings Button](https://www.curseforge.com/minecraft/mc-mods/better-sodium-video-settings-button)  | Moves the sodium video settings button
 [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric)  | Adds a search bar to the Key-Bindings menu
+[Delete Worlds To Trash](https://www.curseforge.com/minecraft/mc-mods/delete-worlds-to-trash-fabric)  | Deleted worlds are gone forever, right? Not anymore! Simply restore them from your recycle bin.
 [Drippy Loading Screen](https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen-fabric)  | Customize Minecraft's loading (splash) screen like never before!
 [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)  | Provides a way to get enchantment descriptions from enchanted books.
 [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot)  | Take large screenshots because why not
@@ -124,6 +129,7 @@ Modname  | Description
 [FPS Monitor](https://www.curseforge.com/minecraft/mc-mods/fps-monitor)  | Display FPS, Ping and Memory in a lightweight and configurable HUD
 [Here be no Dragons!](https://www.curseforge.com/minecraft/mc-mods/here-be-no-dragons)  | Disable the "experimental world settings" warning screen
 [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix)  | Fixes gaps in default item models
+[kennytvs-epic-force-close-loading-screen-mod-for-fabric](https://modrinth.com/mod/forcecloseworldloadingscreen)  | (Instantly) closes the loading terrain screen on world changing
 [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)  | A simple mod to provide users with NEI-like light level overlay.
 [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)  | Adds a mod menu to view the list of mods you have installed.
 [More Chat History](https://www.curseforge.com/minecraft/mc-mods/more-chat-history)  | Increases the size of the chat history.
@@ -163,3 +169,4 @@ Modname  | Description
 * This modpack is aiming to comply with multiplayer sever rules but it is your one responsebility to check if this modpack is alowed on the server you want to play on.
 * By installing 'Faster than light' you agree that no one provides warranties for using it, every action you do with it is your own.
 * You also automatically agree to the following: "Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft.
+* This modpack is probably not allowed for speedrunning because it adds a lot of optimatzation that are not allowed while writing this
