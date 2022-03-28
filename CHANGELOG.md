@@ -8,4 +8,5 @@
 - Added Why Am I on Fire?
 - Added kennytvs-epic-force-close-loading-screen-mod-for-fabric
 - Added Hat List
+- Added Sound Effects to the buttons
 - Updated Architectury, Better thirdperson, cem, completeconfig lib, etf
