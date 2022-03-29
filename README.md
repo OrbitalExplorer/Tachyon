@@ -1,5 +1,5 @@
 # Faster than light
-This is the official github from Faster than light.
+This is the official github from Faster than light. [Curseforge link](https://www.curseforge.com/minecraft/modpacks/faster-than-light/), [Modrinth link when it supports modpacks](linkie)
 
 ## Installation
 
