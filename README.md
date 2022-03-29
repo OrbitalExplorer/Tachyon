@@ -3,7 +3,7 @@ This is the official github from Faster than light.
 
 [Curseforge link](https://www.curseforge.com/minecraft/modpacks/faster-than-light/)
 
-[Modrinth link when it supports modpacks](https://github.com/lalamapaka/Faster-than-light/main/README.md)
+[Modrinth link when it supports modpacks](https://github.com/lalamapaka/Faster-than-light/blob/main/README.md)
 
 ## Installation
 
