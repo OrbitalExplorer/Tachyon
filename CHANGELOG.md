@@ -1,5 +1,10 @@
 # These are the changes for each version
 
+## 1.4.2
+- Removed kennytvs-epic-force-close-loading-screen-mod-for-fabric (until curseforge approves the mod)
+- Updated etf
+- Added Chime again
+
 ## 1.4.1
 Fixed export
 
