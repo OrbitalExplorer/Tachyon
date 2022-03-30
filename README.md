@@ -123,6 +123,7 @@ Modname  | Description
 [Better Taskbar](https://www.curseforge.com/minecraft/mc-mods/better-taskbar)  | This mod makes the taskbar better, such as adding progress to the taskbar when loading resources and loading worlds.
 [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining)  | Changes Fullscreen to use a borderless window.
 [Better Sodium Video Settings Button](https://www.curseforge.com/minecraft/mc-mods/better-sodium-video-settings-button)  | Moves the sodium video settings button
+[Chime](https://www.curseforge.com/minecraft/mc-mods/chime-fabric)  | More options for creating dynamic item models
 [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric)  | Adds a search bar to the Key-Bindings menu
 [Delete Worlds To Trash](https://www.curseforge.com/minecraft/mc-mods/delete-worlds-to-trash-fabric)  | Deleted worlds are gone forever, right? Not anymore! Simply restore them from your recycle bin.
 [Drippy Loading Screen](https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen-fabric)  | Customize Minecraft's loading (splash) screen like never before!
@@ -133,7 +134,6 @@ Modname  | Description
 [FPS Monitor](https://www.curseforge.com/minecraft/mc-mods/fps-monitor)  | Display FPS, Ping and Memory in a lightweight and configurable HUD
 [Here be no Dragons!](https://www.curseforge.com/minecraft/mc-mods/here-be-no-dragons)  | Disable the "experimental world settings" warning screen
 [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix)  | Fixes gaps in default item models
-[kennytvs-epic-force-close-loading-screen-mod-for-fabric](https://modrinth.com/mod/forcecloseworldloadingscreen)  | (Instantly) closes the loading terrain screen on world changing
 [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)  | A simple mod to provide users with NEI-like light level overlay.
 [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)  | Adds a mod menu to view the list of mods you have installed.
 [More Chat History](https://www.curseforge.com/minecraft/mc-mods/more-chat-history)  | Increases the size of the chat history.
