@@ -6,7 +6,7 @@ This is the official github from Faster than light.
 [Modrinth link when it supports modpacks](https://github.com/lalamapaka/Faster-than-light/blob/main/README.md)
 
 ## Details
-like capes/installation check [the wiki](https://github.com/lalamapaka/Faster-than-light/wiki)
+details like capes/installation check [the wiki](https://github.com/lalamapaka/Faster-than-light/wiki)
 
 ## Mods
 
