@@ -5,50 +5,8 @@ This is the official github from Faster than light.
 
 [Modrinth link when it supports modpacks](https://github.com/lalamapaka/Faster-than-light/blob/main/README.md)
 
-## Installation
-
-### [Curseforge Launcher](https://download.curseforge.com/ "Download Curseforge")
-<details>
-  <summary>Installation</summary>
-  <p>1. Go to Files on the curseforge page</p>
-  <p>2. Click Install on the version you want (probably the latest one,you can see it at the top) </p>
-  <p>3. Accept the prompts to open the app (if asked), the installation should start</p>
-</details>
-
-### [GdLauncher](https://gdevs.com/ "Download GdLauncher")
-<details>
-  <summary>Installation</summary>
-  <p>1. Click the ➕ on in the left corner at the bottom</p>
-  <p>2. Select the CurseForge tab</p>
-  <p>3. Search for "Faster than light" and scroll down until you see it</p>
-  <p>4. Click Download Latest for the latest version</p>
-  <p>5. Choose your name (leave it blank for default)</p>
-  <p>6. Click the ➡️ on the bottom right of the window</p>
-</details>
-
-### More Launcher support coming soon™
-
-## Capes
-
-<details>
-  <summary>Registration (Minecraft Capes)</summary>
-  <p>1. Join the minecraft server already in the multiplayer list</p>
-  <p>2. Go to https://minecraftcapes.net</p>
-  <p>3. Click on Register</p>
-  <p>4. Enter the code you got from the minecraft server</p>
-  <p>5. Make a password and remember it ofc</p>
-  <p>6. Click on Upload a cape or click on gallery in the top right(Recommended)</p>
-  <p>7. Choose your cape</p>
-  <p>8. Follow the Activation steps below</p>
-  <p>For an instruction video check this: https://youtu.be/xeJoaxJcM9w?t=435 until 9:50 then follow the Activation steps</p>
-</details>
-
-<details>
-  <summary>Activation</summary>
-  <p>1. Go to "Skin Customization" in Minecraft</p>
-  <p>2. Press the icon of the player with a cape in the top left</p>
-  <p>3. Select your type of cape (For Minecraft Capes choose Minecraft Capes)</p>
-</details>
+## Details
+like capes/installation check [the wiki](https://github.com/lalamapaka/Faster-than-light/wiki)
 
 ## Mods
 
