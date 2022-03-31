@@ -7,8 +7,8 @@ This is the official github from Faster than light.
 
 [Modrinth link when it supports modpacks](https://github.com/lalamapaka/Faster-than-light/blob/main/README.md)
 
-## Questions?
-Check [this](https://lalamapaka.gitbook.io/faster-than-light-wiki/)
+## Wiki
+Link to [the wiki](https://lalamapaka.gitbook.io/faster-than-light-wiki/)
 
 ## Mods
 
