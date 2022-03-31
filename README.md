@@ -1,12 +1,14 @@
 # Faster than light
 This is the official github from Faster than light.
 
-[Curseforge link](https://www.curseforge.com/minecraft/modpacks/faster-than-light/)
+![Name](https://cf.way2muchnoise.eu/title/581097.svg)
+![Download from Curseforge](https://cf.way2muchnoise.eu/full_581097_downloads.svg) 
+![Versions](https://cf.way2muchnoise.eu/versions/581097.svg)
 
 [Modrinth link when it supports modpacks](https://github.com/lalamapaka/Faster-than-light/blob/main/README.md)
 
-## Questions
-Check [this](https://github.com/lalamapaka/Faster-than-light/wiki)
+## Questions?
+Check [this](https://lalamapaka.gitbook.io/faster-than-light-wiki/)
 
 ## Mods
 
