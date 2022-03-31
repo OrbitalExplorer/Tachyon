@@ -1,5 +1,5 @@
 # Table of contents
 
 * [Welcome](README.md)
-  * [Instalation](welcome/instalation.md)
-  * [Capes](welcome/capes.md)
+  * [Instalation](gitbook-main/instalation.md)
+  * [Capes](gitbook-main/capes.md)
