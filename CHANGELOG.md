@@ -1,5 +1,14 @@
 # These are the changes for each version
 
+## 1.5.1
+This time for real
+with in the mean time more changes because probably no update next week.
+
+- Replaced drippy loading screen with custom splash screen
+- Replaced tiefix, Fast open links and folders, shift scroll fix with debugify
+- Removed fancy menu, konkrete, bsvb
+- Added enhanced attack indicator, enhanced block entities, slight gui modifications, fabric title changer, tooltipfix, antighost, advancement info, unionlib, forge config api port, controller support mod, recipe cache
+
 ## 1.5
 - Replaced drippy loading screen with custom splash screen
 - Removed fancy menu, konkrete, bsvb
