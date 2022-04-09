@@ -140,5 +140,4 @@ Modname  | Description
 * You also automatically agree to the following: ["Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft.](https://minecraft.fandom.com/wiki/File:Multiplayer_disclaimer.png)
   * You must know you can always use the ["Socials Interaction Screen"](https://minecraft.fandom.com/wiki/Social_Interactions_screen#Usage) by pressing 'P' in game
 * This modpack is probably not allowed for speedrunning because it adds a lot of optimatzation that are not allowed while writing this
-* The mod AntiGhost sends a small amount of packets to the server, the server can think that you're hacking.
 * The command /ghost (by AntiGhost) can be disabled or disallowed on some servers, because it sends a [small amount of packets](https://www.curseforge.com/minecraft/mc-mods/antighost?comment=103), It's overall safe if you use it rarely/only when needed.
