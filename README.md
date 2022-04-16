@@ -18,13 +18,13 @@ Modname  | Description
 [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds)  | Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer.
 [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend)  | Improves and fixes biome color blending
 [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric)  | Better fps for 1.16+ minecraft, improved render distances
-[Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby)  | Allows for render distances greater than the server's view-distance setting.
 [C^2M-Engine](https://www.curseforge.com/minecraft/mc-mods/c2me-fabric)  | A Fabric mod designed to improve the chunk performance of Minecraft.
 [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)  | Clumps XP orbs together to reduce lag
 [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)  | Adds culling to leaf blocks, providing a huge performance boost over vanilla.
 [Dynapic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)  | Improve performance when Minecraft is in the background
 [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities)  | Improve FPS with block entities, and make them customizable with resource packs
 [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)  | Using async path-tracing to hide Tiles/Entities that are not visible
+[Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric)  | See far chunks on clientside, even if the server has low view distance, Fabric
 [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)  | Memory usage optimizations
 [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders)  | A modern shaders mod for Minecraft intended to be compatible with existing Optifine shaders
 [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton)  | A mod to optimize the Minecraft networking stack
@@ -56,7 +56,6 @@ Modname  | Description
 [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)  | A Fabric mod that allows for efficient connected textures
 [Detail Armor Bar](https://www.curseforge.com/minecraft/mc-mods/detail-armor-bar)  | Show more details of armors in Armor bar!
 [Drip Sounds](https://www.curseforge.com/minecraft/mc-mods/dripsounds-fabric)  | Fabric mod that adds sounds for drip particles landing
-[Dynamic Sound Filters](https://www.curseforge.com/minecraft/mc-mods/dynamic-sound-filters)  | Adds sound filters based on current surroundings
 [Eating Animation](https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric)  | Mod adds sprite animation when you eat or drink
 [Enhanced Attack Indicator](https://www.curseforge.com/minecraft/mc-mods/enhanced-attack-indicator)  | Uses the attack indicator for more than just melee attacks
 [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)  | Custom, Emissive and Varied mobs like Optifine and so much more.. +Player skin features!)
@@ -82,7 +81,7 @@ Modname  | Description
 [Auth Me](https://www.curseforge.com/minecraft/mc-mods/auth-me)  | Authenticate yourself and re-validate your session
 [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)  | Remove Ghost blocks / request the server to resend blocks around the player
 [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)  | Removes arbitrary limits on Minecraft's attribute system. Fixes MANY mods!
-[Beenfo](https://www.curseforge.com/minecraft/mc-mods/beenfo)  | Bee info - how many bees and how much honey is in a nest/hive?
+[BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3)  | https://www.curseforge.com/minecraft/mc-mods/betterf3
 [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric)  | Displays ping in milliseconds in the player list in a configurable way
 [Better Taskbar](https://www.curseforge.com/minecraft/mc-mods/better-taskbar)  | This mod makes the taskbar better, such as adding progress to the taskbar when loading resources and loading worlds.
 [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining)  | Changes Fullscreen to use a borderless window.
@@ -96,6 +95,7 @@ Modname  | Description
 [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot)  | Take large screenshots because why not
 [FPS Monitor](https://www.curseforge.com/minecraft/mc-mods/fps-monitor)  | Display FPS, Ping and Memory in a lightweight and configurable HUD
 [Here be no Dragons!](https://www.curseforge.com/minecraft/mc-mods/here-be-no-dragons)  | Disable the "experimental world settings" warning screen
+[Inspecio](https://www.curseforge.com/minecraft/mc-mods/inspecio)  | Adds more tooltips.
 [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix)  | Fixes gaps in default item models
 [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)  | A simple mod to provide users with NEI-like light level overlay.
 [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)  | Adds a mod menu to view the list of mods you have installed.
