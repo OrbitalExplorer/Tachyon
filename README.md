@@ -5,16 +5,24 @@ This is the official GitHub from Faster than light.
 ![Download from Curseforge](https://cf.way2muchnoise.eu/full_581097_downloads.svg)
 ![Versions](https://cf.way2muchnoise.eu/versions/581097.svg)
 
-[Modrinth link when it supports modpacks](https://github.com/lalamapaka/Faster-than-light/blob/main/README.md)
+[Modrinth link when it supports modpacks](https://github.com/lalamapaka/Faster-than-light/blob/main/README.md "Click me to go to the Modrinth page") 
 
 ## Wiki
-Link to [the wiki](https://lalamapaka.gitbook.io/faster-than-light-wiki/)
+Link to [the wiki](https://lalamapaka.gitbook.io/faster-than-light-wiki/ "Click me to see the wiki")
+
+## Server
+
+~~Option 1. Use the [Faster Than Light server pack](https://github.com/lalamapaka/Faster-than-light/releases) for complete compatibility with the client.  [Install Instructions](https://lalamapaka.gitbook.io/faster-than-light-wiki/english/server)~~ Coming Soon
+
+Option 2.  Use [PaperMC](https://papermc.io/downloads "Link to papermc.io") or a Fork
+
+
 
 ## Mods
 
 ### Performance
 Modname  | Description
-------------- | -------------
+:-----------: | -------------
 [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds)  | Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer.
 [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend)  | Improves and fixes biome color blending
 [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric)  | Better fps for 1.16+ minecraft, improved render distances
@@ -39,7 +47,7 @@ Modname  | Description
 
 ### Immersion
 Modname  | Description
-------------- | -------------
+:-----------: | :------------
 [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica)  | A Minecraft mod for the Fabric mod loader intended to load the MCPatcher/OptiFine animated texture format.
 [Armor Sound Tweak](https://www.curseforge.com/minecraft/mc-mods/armor-sound-tweak)  | Plays the respective equip sound when (un)equipping armor in a menu
 [Beautified Chat Client](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-client-fabric)  | 💬 A highly configurable mod to change the chat style and colour on the client.
@@ -76,7 +84,7 @@ Modname  | Description
 
 ### Utility
 Modname  | Description
-------------- | -------------
+:-----------: | -------------
 [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo)  | Get better info about advancements
 [Auth Me](https://www.curseforge.com/minecraft/mc-mods/auth-me)  | Authenticate yourself and re-validate your session
 [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)  | Remove Ghost blocks / request the server to resend blocks around the player
@@ -119,7 +127,7 @@ Modname  | Description
 
 ### Library
 Modname  | Description
-------------- | -------------
+:-----------: | -------------
 [ARRP](https://www.curseforge.com/minecraft/mc-mods/arrp)  | An api for fabric that allows for the generation of resourcepacks at runtime via code
 [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)  | Architectury is an api to abstract calls to fabric api and forge api as both loader has different implementations of what can be perceived as the same thing.
 [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf)  | An open source library for other mods!
@@ -134,7 +142,7 @@ Modname  | Description
 [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib)  | Common library with a built-in configuration system
 [UnionLib](https://www.curseforge.com/minecraft/mc-mods/unionlib)  | A library mod for all my mods
 
-### Disclaimers
+## Disclaimers
 * This modpack is aiming to comply with multiplayer sever rules but it is your one responsibility to check if this modpack is alowed on the server you want to play on.
 * By installing 'Faster than light' you agree that no one provides warranties for using it, every action you do with it is your own.
 * You also automatically agree to the following: ["Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft.](https://minecraft.fandom.com/wiki/File:Multiplayer_disclaimer.png)

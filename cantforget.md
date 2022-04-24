@@ -1,7 +1,15 @@
 # Can absolutely not forget
 
-1. Change version number in config/fabric-title-changer/settings.json
-2. Remove experimental mods
-3. Add mods to README.md
-4. Add changes to Changelog.md
-5. Change version number in config/slightguimodifications/cts.groovy
+## Client
+
+- [ ] Change version number in config/fabric-title-changer/settings.json
+- [ ] Change version number in config/slightguimodifications/cts.groovy
+- [ ] Remove experimental mods
+- [ ] Add mods to [README.md](README.md)
+- [ ] Add changes to [CHANGELOG.md](CHANGELOG.md)
+
+## Server
+
+- [ ] Update all mods
+- [ ] Remove experimental mods
+- [ ] Add changes to [CHANGELOG.md](CHANGELOG.md) 

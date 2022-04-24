@@ -1,5 +1,6 @@
 # Todo
 
+- [ ] Make Server Pack
 - [ ] Make proper logo
 - [ ] Change background for each mc update
 - [ ] Switch to [Quilt loader](https://quiltmc.org/) when it's widely supported and stable

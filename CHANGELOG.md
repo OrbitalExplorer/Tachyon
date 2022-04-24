@@ -1,6 +1,17 @@
 # Version Changes
 
+## 1.1.8
+
+### Client
+
+- 
+
+### Server
+
+- 
+
 ## 1.1.7
+
 - added better f3
 - removed dynamic sound filters
 - replaced beenfo, appleskin with inspecio
