@@ -1,4 +1,4 @@
-# These are the changes for each version
+# Version Changes
 
 ## 1.1.7
 - added better f3
