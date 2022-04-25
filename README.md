@@ -12,7 +12,7 @@ Link to [the wiki](https://lalamapaka.gitbook.io/faster-than-light-wiki/ "Click 
 
 ## Server
 
-~~Option 1. Use the [Faster Than Light server pack](https://github.com/lalamapaka/Faster-than-light/releases) for complete compatibility with the client.  [Install Instructions](https://lalamapaka.gitbook.io/faster-than-light-wiki/english/server)~~ Coming Soon
+Option 1. Use the [Faster Than Light server pack](https://github.com/lalamapaka/Faster-than-light/releases) for complete compatibility with the client.  [Install Instructions](https://lalamapaka.gitbook.io/faster-than-light-wiki/english/server)
 
 Option 2.  Use [PaperMC](https://papermc.io/downloads "Link to papermc.io") or a Fork
 
