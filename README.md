@@ -65,6 +65,7 @@ Modname  | Description
 [Detail Armor Bar](https://www.curseforge.com/minecraft/mc-mods/detail-armor-bar)  | Show more details of armors in Armor bar!
 [Drip Sounds](https://www.curseforge.com/minecraft/mc-mods/dripsounds-fabric)  | Fabric mod that adds sounds for drip particles landing
 [Eating Animation](https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric)  | Mod adds sprite animation when you eat or drink
+[Effective 💦](https://www.curseforge.com/minecraft/mc-mods/effective)  | A client-side mod adding ambient and environmental interaction effects to enhance immersion.
 [Enhanced Attack Indicator](https://www.curseforge.com/minecraft/mc-mods/enhanced-attack-indicator)  | Uses the attack indicator for more than just melee attacks
 [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)  | Custom, Emissive and Varied mobs like Optifine and so much more.. +Player skin features!)
 [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes)  | Lets you use capes from OptiFine, LabyMod and other cape mods
@@ -79,6 +80,8 @@ Modname  | Description
 ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)  | Allows 'slight' gui modifications
 [Smooth Swapping](https://www.curseforge.com/minecraft/mc-mods/smooth-swapping)  | Moves items smoothly in inventories
 [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)  | Sound Physics Remastered
+[Visual Overhaul](https://www.curseforge.com/minecraft/mc-mods/visual-overhaul)  | Enhance the visual representation of interactable blocks.
+[Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench-fabric)  | Items stay inside of crafting tables and are also rendered on top. It's really fancy!
 [Wavey Capes](https://www.curseforge.com/minecraft/mc-mods/waveycapes)  | The cape shouldn't be a static slab
 [Why Am I on Fire](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire)  | Hides the obstructive fire overlay when it's not needed
 
@@ -100,6 +103,7 @@ Modname  | Description
 [Debugify](https://www.curseforge.com/minecraft/mc-mods/debugify)  | Fixes Minecraft bugs found on the bug tracker
 [Delete Worlds To Trash](https://www.curseforge.com/minecraft/mc-mods/delete-worlds-to-trash-fabric)  | Deleted worlds are gone forever, right? Not anymore! Simply restore them from your recycle bin.
 [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)  | Provides a way to get enchantment descriptions from enchanted books.
+[FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes)  | Allows resource packs to define custom skyboxes.
 [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot)  | Take large screenshots because why not
 [FPS Monitor](https://www.curseforge.com/minecraft/mc-mods/fps-monitor)  | Display FPS, Ping and Memory in a lightweight and configurable HUD
 [Here be no Dragons!](https://www.curseforge.com/minecraft/mc-mods/here-be-no-dragons)  | Disable the "experimental world settings" warning screen
