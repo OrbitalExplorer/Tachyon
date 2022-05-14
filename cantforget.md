@@ -13,3 +13,5 @@
 - [ ] Update all mods
 - [ ] Remove experimental mods
 - [ ] Add changes to [CHANGELOG.md](CHANGELOG.md) 
+- [ ] Delete '.fabric' 'server.jar', ....
+- [ ] Zip

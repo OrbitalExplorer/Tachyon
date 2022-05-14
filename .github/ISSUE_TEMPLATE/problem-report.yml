@@ -6,7 +6,14 @@ body:
   attributes:
     value: |
       If it is a crash and you know what mod caused it, please don't report the issue to this modpack. Submit the issue to that mod.
-
+      Else you can submit it here and try to find what caused it.
+- type: checkboxes
+  attributes:
+    label: Have you checked there is already an existing issue for this
+    description: Before you submit it, have you searched [here](https://github.com/Madis0/fabulously-optimized/issues) if it has already been submited by someone
+    options:
+    - label: I have searched for existing issues and found nothing.
+      required: true
 - type: textarea
   attributes:
     label: Describe the bug
@@ -50,7 +57,7 @@ body:
 - type: dropdown
   attributes:
     label: Launcher
-    description: Which launcher are you using?
+    description: What launcher are you using?
     options:
       - Curseforge Launcher
       - GDLauncher

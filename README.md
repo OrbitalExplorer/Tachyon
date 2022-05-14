@@ -21,6 +21,32 @@ Option 2.  Use [PaperMC](https://papermc.io/downloads "Link to papermc.io") or a
 ## Mods
 
 ### Performance
+<<<<<<< HEAD
+|                           Mod-name                           | Description                                                  |
+| :----------------------------------------------------------: | ------------------------------------------------------------ |
+| [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer. |
+| [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) | Improves and fixes biome color blending                      |
+| [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric) | Better fps for 1.16+ minecraft, improved render distances    |
+| [C^2M-Engine](https://www.curseforge.com/minecraft/mc-mods/c2me-fabric) | A Fabric mod designed to improve the chunk performance of Minecraft. |
+| [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Clumps XP orbs together to reduce lag                        |
+| [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) | Adds culling to leaf blocks, providing a huge performance boost over vanilla. |
+| [Dynapic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) | Improve performance when Minecraft is in the background      |
+| [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | Improve FPS with block entities, and make them customizable with resource packs |
+| [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | Using async path-tracing to hide Tiles/Entities that are not visible |
+| [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) | See far chunks on clientside, even if the server has low view distance, Fabric |
+| [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | Memory usage optimizations                                   |
+| [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) | A modern shaders mod for Minecraft intended to be compatible with existing Optifine shaders |
+| [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) | A mod to optimize the Minecraft networking stack             |
+| [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload) | Makes language reloading and switching faster                |
+| [lazy-language-loader](https://www.curseforge.com/minecraft/mc-mods/lazy-language-loader) | lazy-language-loader improves loading times when changing your language by only reloading the language instead of all the game resources! |
+| [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | Makes the initialization of DataFixerUpper "lazy", making the game start more quickly |
+| [Recipe Cache](https://www.curseforge.com/minecraft/mc-mods/recipe-cache) | Caches recipe lookup for crafting and furnaces to lessen server lag caused by crafting stacks of items and large amounts of furnaces ticking |
+| [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) | An optimization mod for Minecraft which improves server performance significantly |
+| [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) | Tweak Java thread settings and prevent Minecraft from lagging your computer when loading up. |
+| [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) | Fabric mod for rewriting the light engine to fix lighting performance and lighting errors. |
+| [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) | A Minecraft mod designed to improve frame rates and reduce micro-stutter |
+| [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) | Features that shouldn't be in Sodium                         |
+=======
 Modname  | Description
 :-----------: | -------------
 [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds)  | Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer.
@@ -44,6 +70,7 @@ Modname  | Description
 [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)  | Tweak Java thread settings and prevent Minecraft from lagging your computer when loading up.
 [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)  | A Minecraft mod designed to improve frame rates and reduce micro-stutter
 [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)  | Features that shouldn't be in Sodium
+>>>>>>> parent of 737b2e2 (Add servermods/ v.1.1.9)
 
 ### Immersion
 Modname  | Description
@@ -152,4 +179,5 @@ Modname  | Description
 * You also automatically agree to the following: ["Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft.](https://minecraft.fandom.com/wiki/File:Multiplayer_disclaimer.png)
   * You must know you can always use the ["Socials Interaction Screen"](https://minecraft.fandom.com/wiki/Social_Interactions_screen#Usage) by pressing 'P' in game
 * This modpack is probably not allowed for speedrunning because it adds a lot of optimatzation that are not allowed while writing this
+* This modpack is also not very good for  highly technical players since the mod [starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) rewrites the lighting engine, on the server [alternate current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) rewrites redstone, .....
 * The command /ghost (by AntiGhost) can be disabled or disallowed on some servers, because it sends a [small amount of packets](https://www.curseforge.com/minecraft/mc-mods/antighost?comment=103), It's overall safe if you use it rarely/only when needed.
