@@ -1,5 +1,50 @@
 # Version Changes
 
+## 1.1.9
+
+### Client
+
+- Added
+  - Sheep consitency
+  - Extra sounds
+  - toolstats
+  - lan world plug-n-play
+  - lan operators
+- Removed
+  - Armor sound tweak
+  - visual workbench
+- Updated 
+  - Bookshelf
+  - iris
+  - 3d skin layers
+  - architectury
+  - capes
+  - complete config lib
+  - enchangment desc
+  - enchanced attack idicator
+  - farsight
+  - raised
+
+### Server
+
+#### Fabric version 1.14.4
+
+- Added
+  - Global data/resource packs
+    - with datapack ag time stop
+  - Better fabric console
+  - Fabric restart
+  - dimensional threading
+- Updated
+  - Architectury
+  - bookshelf
+  - clumps
+  - fabric api
+  - fabric language kotlin
+  - ferritecore
+  - not enough crashes
+  - tabtps
+
 ## 1.1.8
 
 ### Client
@@ -32,8 +77,44 @@
   - raised
   - simple rpc
 
-
 ### Server
+
+Fabric version 1.13.3
+
+- Added
+  - Alternate current
+  - antighost
+  - anti xray
+  - architectury
+  - better beacon placement
+  - better conduit placement
+  - better fps dist
+  - bookshelf
+  - c2me
+  - cloth api
+  - clumps
+  - collective
+  - debugify
+  - fabric api
+  - fabric language kotlin
+  - ferrite core
+  - iceberg
+  - krypton
+  - lazy dfu
+  - ledger
+  - lithium
+  - midnight lib
+  - not enough crashes
+  - presence footsteps
+  - recipe cache
+  - respackopts
+  - server core
+  - smooth boot
+  - spark
+  - starlight
+  - styled chat
+  - tab tps
+  - why am i on fire
 
 ## 1.1.7
 

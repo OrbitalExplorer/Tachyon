@@ -12,16 +12,15 @@ Link to [the wiki](https://lalamapaka.gitbook.io/faster-than-light-wiki/ "Click 
 
 ## Server
 
-Option 1. Use the [Faster Than Light server pack](https://github.com/lalamapaka/Faster-than-light/releases) for complete compatibility with the client.  [Install Instructions](https://lalamapaka.gitbook.io/faster-than-light-wiki/english/server)
+Option 1. Use the [Faster Than Light server pack](https://github.com/lalamapaka/Faster-than-light/releases "Click here to see the latest release of the pack") for complete compatibility with the client.  [Install Instructions](https://lalamapaka.gitbook.io/faster-than-light-wiki/english/server "Click here to see the Install instructions") (BETA) [Mods](SERVERMODS.md "Click here to see the server mods") 
 
-Option 2.  Use [PaperMC](https://papermc.io/downloads "Link to papermc.io") or a Fork
+Option 2.  Use [PaperMC](https://papermc.io/downloads "Click here to see the downloads of paper mc") or a Fork
 
 
 
 ## Mods
 
 ### Performance
-<<<<<<< HEAD
 |                           Mod-name                           | Description                                                  |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
 | [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer. |
@@ -46,37 +45,11 @@ Option 2.  Use [PaperMC](https://papermc.io/downloads "Link to papermc.io") or a
 | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) | Fabric mod for rewriting the light engine to fix lighting performance and lighting errors. |
 | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) | A Minecraft mod designed to improve frame rates and reduce micro-stutter |
 | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) | Features that shouldn't be in Sodium                         |
-=======
-Modname  | Description
-:-----------: | -------------
-[Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds)  | Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer.
-[Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend)  | Improves and fixes biome color blending
-[Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric)  | Better fps for 1.16+ minecraft, improved render distances
-[C^2M-Engine](https://www.curseforge.com/minecraft/mc-mods/c2me-fabric)  | A Fabric mod designed to improve the chunk performance of Minecraft.
-[Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)  | Clumps XP orbs together to reduce lag
-[Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)  | Adds culling to leaf blocks, providing a huge performance boost over vanilla.
-[Dynapic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)  | Improve performance when Minecraft is in the background
-[Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities)  | Improve FPS with block entities, and make them customizable with resource packs
-[Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)  | Using async path-tracing to hide Tiles/Entities that are not visible
-[Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric)  | See far chunks on clientside, even if the server has low view distance, Fabric
-[FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)  | Memory usage optimizations
-[Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders)  | A modern shaders mod for Minecraft intended to be compatible with existing Optifine shaders
-[Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton)  | A mod to optimize the Minecraft networking stack
-[Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload)  | Makes language reloading and switching faster
-[lazy-language-loader](https://www.curseforge.com/minecraft/mc-mods/lazy-language-loader)  | lazy-language-loader improves loading times when changing your language by only reloading the language instead of all the game resources!
-[LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu)  | Makes the initialization of DataFixerUpper "lazy", making the game start more quickly
-[Recipe Cache](https://www.curseforge.com/minecraft/mc-mods/recipe-cache)  | Caches recipe lookup for crafting and furnaces to lessen server lag caused by crafting stacks of items and large amounts of furnaces ticking
-[Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)  | An optimization mod for Minecraft which improves server performance significantly
-[Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)  | Tweak Java thread settings and prevent Minecraft from lagging your computer when loading up.
-[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)  | A Minecraft mod designed to improve frame rates and reduce micro-stutter
-[Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)  | Features that shouldn't be in Sodium
->>>>>>> parent of 737b2e2 (Add servermods/ v.1.1.9)
 
 ### Immersion
 Modname  | Description
 :-----------: | :------------
 [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica)  | A Minecraft mod for the Fabric mod loader intended to load the MCPatcher/OptiFine animated texture format.
-[Armor Sound Tweak](https://www.curseforge.com/minecraft/mc-mods/armor-sound-tweak)  | Plays the respective equip sound when (un)equipping armor in a menu
 [Beautified Chat Client](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-client-fabric)  | 💬 A highly configurable mod to change the chat style and colour on the client.
 [Better Beacon Placement](https://www.curseforge.com/minecraft/mc-mods/better-beacon-placement-fabric)  | ✔️ Easily place beacon bases by right-clicking the beacon with mineral blocks.
 [Better Conduit Placement](https://www.curseforge.com/minecraft/mc-mods/better-conduit-placement-fabric)  | ✔️ Place conduits in front, makes placing conduit prismarine blocks easier and other tweaks.
@@ -95,6 +68,7 @@ Modname  | Description
 [Effective 💦](https://www.curseforge.com/minecraft/mc-mods/effective)  | A client-side mod adding ambient and environmental interaction effects to enhance immersion.
 [Enhanced Attack Indicator](https://www.curseforge.com/minecraft/mc-mods/enhanced-attack-indicator)  | Uses the attack indicator for more than just melee attacks
 [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)  | Custom, Emissive and Varied mobs like Optifine and so much more.. +Player skin features!)
+[ExtraSounds](https://www.curseforge.com/minecraft/mc-mods/extrasounds)  | Adds more sounds
 [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes)  | Lets you use capes from OptiFine, LabyMod and other cape mods
 [Hat List](https://www.curseforge.com/minecraft/mc-mods/hat-list)  | Show the hat layer on tab list
 [Item Borders](https://www.curseforge.com/minecraft/mc-mods/item-borders-fabric)  | Add colored borders to inventory slots to make your rare items stand out!
@@ -103,12 +77,12 @@ Modname  | Description
 [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)  | A dynamic lights mod for Fabric.
 [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)  | Enhances inventory management by adding various functions to the mouse buttons.
 [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)  | Bringing first-person animations to the third-person
+[Sheep Consistency](https://www.curseforge.com/minecraft/mc-mods/sheep-consistency)  | When sheared, sheep now show the color they're dyed with on their skin
 [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)  | Render the player skin layer in 3d!
 ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)  | Allows 'slight' gui modifications
 [Smooth Swapping](https://www.curseforge.com/minecraft/mc-mods/smooth-swapping)  | Moves items smoothly in inventories
 [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)  | Sound Physics Remastered
 [Visual Overhaul](https://www.curseforge.com/minecraft/mc-mods/visual-overhaul)  | Enhance the visual representation of interactable blocks.
-[Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench-fabric)  | Items stay inside of crafting tables and are also rendered on top. It's really fancy!
 [Wavey Capes](https://www.curseforge.com/minecraft/mc-mods/waveycapes)  | The cape shouldn't be a static slab
 [Why Am I on Fire](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire)  | Hides the obstructive fire overlay when it's not needed
 
@@ -137,6 +111,8 @@ Modname  | Description
 [Inspecio](https://www.curseforge.com/minecraft/mc-mods/inspecio)  | Adds more tooltips.
 [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix)  | Fixes gaps in default item models
 [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)  | A simple mod to provide users with NEI-like light level overlay.
+[LAN Operators](https://www.curseforge.com/minecraft/mc-mods/lan-operators)  | his mod adds /op and /deop to Open to LAN worlds
+[LAN World Plug-n-Play](https://www.curseforge.com/minecraft/mc-mods/mcwifipnp)  | mcwifipnp
 [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)  | Adds a mod menu to view the list of mods you have installed.
 [More Chat History](https://www.curseforge.com/minecraft/mc-mods/more-chat-history)  | Increases the size of the chat history.
 [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade)  | Remove fade out animations in Minecraft
@@ -149,6 +125,7 @@ Modname  | Description
 [Styled Chat](https://www.curseforge.com/minecraft/mc-mods/styled-chat)  | Change style of your server's chat!
 [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric)  | Adds smooth scrolling to every list.
 [spark](https://www.curseforge.com/minecraft/mc-mods/spark)  | spark is a performance profiler for Minecraft clients, servers and proxies.
+[Tool Stats](https://www.curseforge.com/minecraft/mc-mods/tool-stats)  | Provides additional tooltip info for items
 [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)  | Fixes tooltips that are too long to be displayed
 [Ugly Scoreboard Fix](https://www.curseforge.com/minecraft/mc-mods/ugly-scoreboard-fix)  | Scoreboard sidebar modifications
 [Your Options Shall Be Respected (YOSBR)](https://www.curseforge.com/minecraft/mc-mods/yosbr)  | Your options shall be respected.
