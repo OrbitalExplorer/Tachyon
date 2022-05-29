@@ -50,9 +50,8 @@ Option 2.  Use [PaperMC](https://papermc.io/downloads "Click here to see the dow
 Modname  | Description
 :-----------: | :------------
 [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica)  | A Minecraft mod for the Fabric mod loader intended to load the MCPatcher/OptiFine animated texture format.
+[Axolotl Bucket Fix](https://www.curseforge.com/minecraft/mc-mods/axolotl-bucket-fix)  | Makes the axolotl bucket item show the right axolotl type.
 [Beautified Chat Client](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-client-fabric)  | 💬 A highly configurable mod to change the chat style and colour on the client.
-[Better Beacon Placement](https://www.curseforge.com/minecraft/mc-mods/better-beacon-placement-fabric)  | ✔️ Easily place beacon bases by right-clicking the beacon with mineral blocks.
-[Better Conduit Placement](https://www.curseforge.com/minecraft/mc-mods/better-conduit-placement-fabric)  | ✔️ Place conduits in front, makes placing conduit prismarine blocks easier and other tweaks.
 [Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud)  | Improves the ingame HUD while riding a mount
 [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person)  | Improves third-person camera view.
 [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric)  | Adds a blur effect to all GUI backgrounds - now for Fabric!
@@ -70,11 +69,13 @@ Modname  | Description
 [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)  | Custom, Emissive and Varied mobs like Optifine and so much more.. +Player skin features!)
 [ExtraSounds](https://www.curseforge.com/minecraft/mc-mods/extrasounds)  | Adds more sounds
 [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes)  | Lets you use capes from OptiFine, LabyMod and other cape mods
+[Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)  | Makes leaf particles fall from leaf blocks
 [Hat List](https://www.curseforge.com/minecraft/mc-mods/hat-list)  | Show the hat layer on tab list
+[Illuminations 🔥](https://www.curseforge.com/minecraft/mc-mods/illuminations)  | A client mod that adds fireflies and various glow-in-the-dark ambient particles to your world.
 [Item Borders](https://www.curseforge.com/minecraft/mc-mods/item-borders-fabric)  | Add colored borders to inventory slots to make your rare items stand out!
 [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps)  | An overly complicated sound mod
 [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass)  | Adds better grass and snow to the game.
-[LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)  | A dynamic lights mod for Fabric.
+[Mini Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/mini-dynamic-lights)  | A simplified dynamic lights for player only
 [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)  | Enhances inventory management by adding various functions to the mouse buttons.
 [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)  | Bringing first-person animations to the third-person
 [Sheep Consistency](https://www.curseforge.com/minecraft/mc-mods/sheep-consistency)  | When sheared, sheep now show the color they're dyed with on their skin
@@ -104,25 +105,28 @@ Modname  | Description
 [Debugify](https://www.curseforge.com/minecraft/mc-mods/debugify)  | Fixes Minecraft bugs found on the bug tracker
 [Delete Worlds To Trash](https://www.curseforge.com/minecraft/mc-mods/delete-worlds-to-trash-fabric)  | Deleted worlds are gone forever, right? Not anymore! Simply restore them from your recycle bin.
 [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)  | Provides a way to get enchantment descriptions from enchanted books.
+[Equipment Compare](https://www.curseforge.com/minecraft/mc-mods/equipment-compare-fabric)  | Makes it easier to compare equipment by showing a tooltip for what you're already wearing.
 [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes)  | Allows resource packs to define custom skyboxes.
 [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot)  | Take large screenshots because why not
 [FPS Monitor](https://www.curseforge.com/minecraft/mc-mods/fps-monitor)  | Display FPS, Ping and Memory in a lightweight and configurable HUD
 [Here be no Dragons!](https://www.curseforge.com/minecraft/mc-mods/here-be-no-dragons)  | Disable the "experimental world settings" warning screen
 [Inspecio](https://www.curseforge.com/minecraft/mc-mods/inspecio)  | Adds more tooltips.
-[Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix)  | Fixes gaps in default item models
+[Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next)  | ake control over you inventory. Sort. Move matching Items. Throw all. Locked slots. Gear sets!...
+[Item Highlighter](https://www.curseforge.com/minecraft/mc-mods/item-highlighter-fabric)  | Highlights newly picked-up items. Simple and convenient.
 [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)  | A simple mod to provide users with NEI-like light level overlay.
 [LAN Operators](https://www.curseforge.com/minecraft/mc-mods/lan-operators)  | his mod adds /op and /deop to Open to LAN worlds
 [LAN World Plug-n-Play](https://www.curseforge.com/minecraft/mc-mods/mcwifipnp)  | mcwifipnp
 [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)  | Adds a mod menu to view the list of mods you have installed.
 [More Chat History](https://www.curseforge.com/minecraft/mc-mods/more-chat-history)  | Increases the size of the chat history.
-[No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade)  | Remove fade out animations in Minecraft
 [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes)  | When crashing, you can go back to the title screen and keep playing, without needing to restart the game
+[OptiGUI](https://www.curseforge.com/minecraft/mc-mods/optigui)  | A drop-in replacement for OptiFine custom GUIs
 [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle)  | Adds resourcepack features and a GUI to more conveniently configure OptiFine alternatives.
 [Raised](https://www.curseforge.com/minecraft/mc-mods/raised)  | Raises the hotbar so the selector is not cut off!
 [Respackopts](https://www.curseforge.com/minecraft/mc-mods/respackopts)  | Config screens for resource packs
 [Sign Tools](https://www.curseforge.com/minecraft/mc-mods/sign-tools)  | Small client-sided mod to copy, paste and edit signs.
 [Simple Discord RPC](https://www.curseforge.com/minecraft/mc-mods/simple-discord-rpc)  | A simple to use RPC plugin for Minecraft and Modpacks
 [Styled Chat](https://www.curseforge.com/minecraft/mc-mods/styled-chat)  | Change style of your server's chat!
+[Skip Transitions](https://www.curseforge.com/minecraft/mc-mods/skip-transitions)  | Skips Mojang logo fade in/out and other intrusive transitions.
 [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric)  | Adds smooth scrolling to every list.
 [spark](https://www.curseforge.com/minecraft/mc-mods/spark)  | spark is a performance profiler for Minecraft clients, servers and proxies.
 [Tool Stats](https://www.curseforge.com/minecraft/mc-mods/tool-stats)  | Provides additional tooltip info for items

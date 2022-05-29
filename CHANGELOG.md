@@ -1,5 +1,62 @@
 # Version Changes
 
+
+
+## 1.1.10
+
+### Client
+
+- Added
+  - Falling leaves
+  - item highliter
+  - equipment compare
+  - axolotl bucket fix
+  - inventory profiles next
+  - illuminations
+  - OptiGui
+- Removed
+  - item model fix
+  - better conduit placement
+  - better beacon placement
+  - lambdynamic lights
+  - skip transitions
+- Updated
+  - 3d skin layers
+  - attribute fix
+  - better biome blend
+  - architectury
+  - better ping display
+  - better f3
+  - etf
+  - fabric api
+  - modmenu
+  - raised
+  - simple rpc
+  - lithium
+  - puzzle lib
+  - sodium extra
+  - zoomify
+
+### Server
+
+#### Fabric version 1.14.6
+
+- Added
+  - Chunky pregenerator
+
+- Removed
+  - Better conduit placement
+  - better beacon placement
+- Updated
+  - alternate current
+  - architectury
+  - clumps
+  - fabric api
+  - fabric lang kotlin
+  - ferrite core
+  - lithium
+  - not enough crashes
+
 ## 1.1.9
 
 ### Client

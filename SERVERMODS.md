@@ -7,6 +7,7 @@
 | [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) | An efficient and non-locational redstone dust implementation |
 | [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric) | Better fps for 1.16+ minecraft, improved render distances    |
 | [C2ME](https://www.curseforge.com/minecraft/mc-mods/c2me-fabric) | A Fabric mod designed to improve the chunk performance of Minecraft. |
+| [Chunky Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator/) | Pre-generates chunks, quickly and efficiently                |
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Clumps XP orbs together to reduce lag                        |
 | [Dimensional Threading](https://github.com/WearBlackAllDay/DimensionalThreading) | An attempt to optimize the fabric server, by assigning each dimension their own thread. |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | Memory usage optimizations                                   |
@@ -27,8 +28,6 @@
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
 | [AntiXray](https://www.curseforge.com/minecraft/mc-mods/antixray) | Anti Xray is a lightweight fabric mod that allows server owners to combat xrayers. |
 | [Better Fabric Console](https://www.curseforge.com/minecraft/mc-mods/better-fabric-console) | Server-side Fabric mod enhancing the console with tab completions, colored log output, command syntax highlighting,... |
-| [Better Beacon Placement](https://www.curseforge.com/minecraft/mc-mods/better-beacon-placement-fabric) | ✔️ Easily place beacon bases by right-clicking the beacon with mineral blocks. |
-| [Better Conduit Placement](https://www.curseforge.com/minecraft/mc-mods/better-conduit-placement-fabric) | ✔️ Place conduits in front, makes placing conduit prismarine blocks easier and other tweaks. |
 | [Debugify](https://www.curseforge.com/minecraft/mc-mods/debugify) | Fixes Minecraft bugs found on the bug tracker                |
 | [Fabric Restart](https://www.curseforge.com/minecraft/mc-mods/fabric-restart) | Lightweight serverside mod for restarting server             |
 | [Gloabl Data- & Resourcepacks](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack) | A small helper mod for Modpacks, adding a global Datapack.   |
