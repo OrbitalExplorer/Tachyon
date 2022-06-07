@@ -1,18 +1,18 @@
 # Faster than light
-This is the official GitHub from Faster than light.
+This is the official GitHub from Tachyon.
 
 ![Name](https://cf.way2muchnoise.eu/title/581097.svg)
 ![Download from Curseforge](https://cf.way2muchnoise.eu/full_581097_downloads.svg)
 ![Versions](https://cf.way2muchnoise.eu/versions/581097.svg)
 
-[Modrinth link when it supports modpacks](https://github.com/lalamapaka/Faster-than-light/blob/main/README.md "Click me to go to the Modrinth page") 
+[Modrinth link when it supports modpacks](https://github.com/lalamapaka/tachyon/blob/main/README.md "Click me to go to the Modrinth page") 
 
 ## Wiki
-Link to [the wiki](https://lalamapaka.gitbook.io/faster-than-light-wiki/ "Click me to see the wiki")
+Link to [the wiki](https://lalamapaka.gitbook.io/tachyon-wiki/ "Click me to see the wiki")
 
 ## Server
 
-Option 1. Use the [Faster Than Light server pack](https://github.com/lalamapaka/Faster-than-light/releases "Click here to see the latest release of the pack") for complete compatibility with the client.  [Install Instructions](https://lalamapaka.gitbook.io/faster-than-light-wiki/english/server "Click here to see the Install instructions") (BETA) [Mods](SERVERMODS.md "Click here to see the server mods") 
+Option 1. Use the [Tachyon server pack](https://github.com/lalamapaka/tachyon/releases "Click here to see the latest release of the pack") for complete compatibility with the client.  [Install Instructions](https://lalamapaka.gitbook.io/tachyon-wiki/english/server "Click here to see the Install instructions") (BETA) [Mods](SERVERMODS.md "Click here to see the server mods") 
 
 Option 2.  Use [PaperMC](https://papermc.io/downloads "Click here to see the downloads of paper mc") or a Fork
 
@@ -156,7 +156,7 @@ Modname  | Description
 
 ## Disclaimers
 * This modpack is aiming to comply with multiplayer sever rules but it is your one responsibility to check if this modpack is alowed on the server you want to play on.
-* By installing 'Faster than light' you agree that no one provides warranties for using it, every action you do with it is your own.
+* By installing 'Tachyon' you agree that no one provides warranties for using it, every action you do with it is your own.
 * You also automatically agree to the following: ["Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft.](https://minecraft.fandom.com/wiki/File:Multiplayer_disclaimer.png)
   * You must know you can always use the ["Socials Interaction Screen"](https://minecraft.fandom.com/wiki/Social_Interactions_screen#Usage) by pressing 'P' in game
 * This modpack is probably not allowed for speedrunning because it adds a lot of optimatzation that are not allowed while writing this
