@@ -1,4 +1,4 @@
-# Faster than light
+# Tachyon
 This is the official GitHub from Tachyon.
 
 ![Name](https://cf.way2muchnoise.eu/title/581097.svg)
