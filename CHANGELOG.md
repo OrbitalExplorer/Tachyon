@@ -1,8 +1,78 @@
 # Version Changes
 
+## 1.2.11
+
+### Client
+
+- Added
+  - architectury
+  - midnight controlls
+  - lambdynamiclights
+  - xsyxis
+  - amecs
+  - nmuk
+  - i know what im doing
+  - draggable resource packs
+  - charmonium
+  - stendhal
+  - gamma utils
+  - clear despawn
+  - dcch
+  - bedrodium
+  - blanket
+  - vmp
+  - alternate current
+  - libjf
+
+- Removed
+  - UnionLib
+  - controller support mod
+  - mini dynamic lights
+  - architectury api (UNUSED)
+  - tooltipfix
+
+- Updated
+  - better fps distance  
+  - better taskbar
+  - debugify
+  - bookshelf
+  - eating animation
+  - etf
+  - fabric api
+  - Inspecio
+  - ipn
+  - lan world plugnplay
+  - respackopts
+  - 3d skin layers
+  - Sound Physics Remastered
+  - toolstats
+  - spark
+
+### Server
+
+#### Fabric version 1.14.7
+
+- Added
+  - vmp
+- Updated
+  - architectury
+  - better fps dist
+  - bookshelf
+  - clumps
+  - collective
+  - debugify
+  - fabric api
+  - fabric lang kotlin
+  - ferritecore
+  - global packs
+  - lithium
+  - malilib
+  - midnight lib
+  - not enough crashes
+  - spark
 
 
-## 1.1.10
+## 1.2.10
 
 ### Client
 
@@ -70,7 +140,7 @@
 - Removed
   - Armor sound tweak
   - visual workbench
-- Updated 
+- Updated
   - Bookshelf
   - iris
   - 3d skin layers
@@ -175,13 +245,13 @@ Fabric version 1.13.3
 
 ## 1.1.7
 
-- added 
+- added
   - better f3
 
-- removed 
+- removed
   - dynamic sound filters
 
-- replaced 
+- replaced
   - beenfo, appleskin with inspecio
   - bobby with farsight
 
@@ -215,13 +285,13 @@ Fabric version 1.13.3
 This time for real
 with in the mean time more changes because probably no update next week.
 
-- Replaced 
+- Replaced
   - drippy loading screen with custom splash screen
 
-- Replaced 
+- Replaced
   - tiefix/Fast open links and folders/shift scroll fix with debugify
 
-- Removed 
+- Removed
   - fancy menu
   - konkrete
   - bsvb
