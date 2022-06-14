@@ -20,6 +20,7 @@
 | [ServerCore](https://www.curseforge.com/minecraft/mc-mods/servercore) | A fabric mod that aims to optimize the minecraft server.     |
 | [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) | Tweak Java thread settings and prevent Minecraft from lagging your computer when loading up. |
 | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) | Rewrites the light engine to fix lighting performance and lighting errors |
+| [Very Many Players](https://www.curseforge.com/minecraft/mc-mods/vmp-fabric)  |A Fabric mod designed to improve server performance at high playercounts |
 
 
 ## Utility
@@ -49,4 +50,3 @@
 | [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) | Fabric language module for Kotlin                            |
 | [Iceberg](https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric) | A modding library that contains new events, helpers, and utilities to make modder's lives easier. |
 | [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) | Common library with a built-in configuration system          |
-
