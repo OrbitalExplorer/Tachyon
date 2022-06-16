@@ -123,7 +123,6 @@ Modname  | Description
 [FPS Monitor](https://www.curseforge.com/minecraft/mc-mods/fps-monitor)  | Display FPS, Ping and Memory in a lightweight and configurable HUD
 [Gamma Utils](https://www.curseforge.com/minecraft/mc-mods/gamma-utils)  | Fully client side gamma/brightness/night-vision mod, making it easy to see in the dark. Basically fullbright...
 [Here be no Dragons!](https://www.curseforge.com/minecraft/mc-mods/here-be-no-dragons)  | Disable the "experimental world settings" warning screen
-[Inspecio](https://www.curseforge.com/minecraft/mc-mods/inspecio)  | Adds more tooltips.
 [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next)  | ake control over you inventory. Sort. Move matching Items. Throw all. Locked slots. Gear sets!...
 [Item Highlighter](https://www.curseforge.com/minecraft/mc-mods/item-highlighter-fabric)  | Highlights newly picked-up items. Simple and convenient.
 [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)  | A simple mod to provide users with NEI-like light level overlay.
