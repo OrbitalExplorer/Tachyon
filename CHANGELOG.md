@@ -1,5 +1,9 @@
 # Version Changes
 
+## 1.2.11.1
+- removed
+  - inspecio (I will miss you)
+
 ## 1.2.11
 
 ### Client
