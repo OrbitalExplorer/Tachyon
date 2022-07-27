@@ -1,6 +1,36 @@
 # Version Changes
 
+## 2.0.0
+
+### Client
+
+- Updated
+  - all mods
+- Disabled
+  - Amecs
+  - Beutified chat
+  - cem
+  - delete worlds to trash
+  - drip sounds
+  - lan operators
+  - libjf
+  - puzzles lib
+  - respackopts
+  - window title changer
+
+### Server
+
+- Updated
+  - All mods
+- Removed 
+  - Fabric restart NO longer maintained
+
+### 
+
+
+
 ## 1.2.11.1
+
 - removed
   - inspecio (I will miss you)
 
