@@ -13,3 +13,4 @@ while true; do
         t=$((t-1))
     done
     echo "Restarting down"
+done
