@@ -1,5 +1,15 @@
 # Version Changes
 
+## 2.0.1
+
+### Client
+
+- Updated mods
+
+### Server
+
+- Nothing
+
 ## 2.0.0
 
 ### Client
