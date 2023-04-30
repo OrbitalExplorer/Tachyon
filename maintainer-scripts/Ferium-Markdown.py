@@ -1,59 +1,94 @@
+# Import all the nessecairy modules
 import humanfriendly as hf
 import subprocess
+import sys
+import os
 import re
 
-output_path = 'C:/Users/obewi/Documents/Tachyon/GitHub/Tachyon/'
-mod_type = input('Are these server mods or client mods? (Enter "server" or "client"): ')
 
-if mod_type.lower() == 'server':
-    mod_type = 'SERVER'
-    md_hd = '# Server Mods'
-elif mod_type.lower() == 'client':
-    mod_type = 'CLIENT'
-    md_hd = '# Client Mods'
-else:
-    raise Exception('Unknown type')
-
-print('Getting verbose mod list from ferium ...')
-output = subprocess.check_output(['ferium', 'list', '-v']).decode('utf-8')
-lines = output.strip().split('\n\n')
-header = ['Mod Name + link', 'Mod Authors', 'Downloads', 'License']
-mods = []
-
-print('Converting verbose mod list into seperate strings ...')
-for line in lines:
-    name_match = re.search(r'^\s*(.+?)\s*$', line.split('\n')[0])
-    name = name_match.group(1) if name_match else ''
-
-    if 'Link' in name:
-        name = correct_name
+try:
+    # Get the path you run the file in and remove the last folder where the python file is located
+    output_path = os.path.dirname(os.path.realpath(sys.argv[0]))
+    path_components = output_path.split(os.path.sep)
+    path_components.pop()
+    output_path = os.path.sep.join(path_components)
+    # Check if the output path exists
+    if not os.path.exists(output_path):
+        raise Exception(f'Output path:{output_path} does not exist')
+    
+    # Ask if it are client or server mods (used for the markdown header and the name of the file)
+    mod_type = 'client'#input('Are these server mods or client mods? (Enter "server" or "client"): ')
+    # Check if the input is valid
+    if mod_type.lower() == 'server':
+        mod_type = mod_type.upper()
+        md_hd = '# Server Mods'
+    elif mod_type.lower() == 'client':
+        mod_type = mod_type.upper()
+        md_hd = '# Client Mods'
     else:
-        correct_name = name
+        raise Exception('Unknown type', mod_type)
 
-    url_match = re.search(r'Link:\s+(.+)', line)
-    url = url_match.group(1) if url_match else ''
+    # Get verbose mod list from ferium with the command 'ferium list -v'
+    print('Getting verbose mod list from ferium ...')
+    output = subprocess.check_output(['ferium', 'list', '-v']).decode('utf-8')
+    text_block = output.strip().split('\n\n')
+    # Create the markdown header
+    header = ['Mod Name + link', 'Mod Authors', 'Desciption', 'Downloads', 'Project ID', 'License']
+    mods = []
 
-    author_match = re.search(r'Authors:\s+(.+)', line)
-    author = author_match.group(1) if author_match else ''
+    print('Converting verbose mod list into seperate strings ...')
+    # Search in each line  for the mod name, link, authors, downloads, project id and license
+    for lines in text_block:
+        name = re.search(r'^\s*(.+?)\s*$', lines.split('\n')[0]).group(1)
+        
+        if 'Link' in name:
+            name = correct_name
 
-    downloads_match = re.search(r'Downloads:\s+(.+)', line)
-    downloads = int(downloads_match.group(1)) if downloads_match else 0
-    formatted_downloads = hf.format_number(downloads)
+            url = re.search(r'Link:\s+(.+)', lines).group(1)
 
-    license_match = re.search(r'License:\s+(.+)', line)
-    license = license_match.group(1) if license_match else ''
+            author = re.search(r'Authors:\s+(.+)', lines).group(1)
 
-    mods.append([correct_name, url, author, formatted_downloads, license])
+            downloads = re.search(r'Downloads:\s+(.+)', lines).group(1)
+            formatted_downloads = hf.format_number(downloads)
 
-markdown = md_hd + '\n'
-markdown += '| ' + ' | '.join(header) + ' |\n'
-markdown += '|---' * len(header) + '|\n'
+            id_match = re.search(r'Project ID:\s+(.+)', lines)
+            id = id_match.group(1) if id_match else 'Not a Modrinth/Curseforge project'
 
-print('Making markdown table ...')
-for mod in mods:
-    correct_name, url, author, formatted_downloads, license = mod
-    if url != '':
-        markdown += f'| [{correct_name}]({url}) | {author} | {formatted_downloads} | {license} |\n'
+            license_match = re.search(r'License:\s+(.+)', lines)
+            license = license_match.group(1) if license_match else 'Curseforge project, unable to read license'
 
-with open(f'{output_path}{mod_type}MODS.md', 'w', encoding='utf-8') as f:
-    f.write(markdown)
+            mods.append([name, url, author, formatted_downloads, id, license, desc])
+        else:
+            correct_name = name
+
+            line = lines.split('\n')
+            desc = line[1]
+
+    # Sort the mods by name
+    mods.sort(key=lambda mod: mod[0].lower())
+
+    # Make the top of the markdown table
+    markdown = md_hd + '\n'
+    markdown += '| ' + ' | '.join(header) + ' |\n'
+    markdown += '|---' * len(header) + '|\n'
+
+    print('Making markdown table ...')
+    # Unpack the name and link, author, formatted_downloads, id, license from the list mod in the list mods
+    for mod in mods:
+        name, url, author, formatted_downloads, id, license, desc = mod
+        # Add the row of the specific mod
+        markdown += f'| [{name}]({url}) | {author} | {desc} | {formatted_downloads} | {id} | {license} |\n'
+        
+    markdown += '<table class="sortable">'
+
+    # Save the markdown table to a file in the variable output_path
+    with open(f'{output_path}{os.path.sep}{mod_type}MODS.md', 'w', encoding='utf-8') as f:
+        f.write(markdown)
+
+    print(f'Done! The {mod_type.lower()} mods have been saved to the {mod_type.lower()} mods.md file.')   
+    input("Press enter to exit")
+
+# Stop the program from running if there is an error and print the error out.
+except Exception as e:
+    print("An error occurred:", e)
+    input("Press enter to exit")
