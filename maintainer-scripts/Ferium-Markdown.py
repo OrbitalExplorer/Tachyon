@@ -17,7 +17,7 @@ try:
         raise Exception(f'Output path:{output_path} does not exist')
     
     # Ask if it are client or server mods (used for the markdown header and the name of the file)
-    mod_type = 'client'#input('Are these server mods or client mods? (Enter "server" or "client"): ')
+    mod_type = input('Are these server mods or client mods? (Enter "server" or "client"): ')
     # Check if the input is valid
     if mod_type.lower() == 'server':
         mod_type = mod_type.upper()
@@ -78,14 +78,12 @@ try:
         name, url, author, formatted_downloads, id, license, desc = mod
         # Add the row of the specific mod
         markdown += f'| [{name}]({url}) | {author} | {desc} | {formatted_downloads} | {id} | {license} |\n'
-        
-    markdown += '<table class="sortable">'
 
     # Save the markdown table to a file in the variable output_path
     with open(f'{output_path}{os.path.sep}{mod_type}MODS.md', 'w', encoding='utf-8') as f:
         f.write(markdown)
 
-    print(f'Done! The {mod_type.lower()} mods have been saved to the {mod_type.lower()} mods.md file.')   
+    print(f'Done! The {mod_type.lower()} mods have been saved to {output_path}{os.path.sep}{mod_type}MODS.md file.')   
     input("Press enter to exit")
 
 # Stop the program from running if there is an error and print the error out.
