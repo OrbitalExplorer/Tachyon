@@ -1,3 +1,10 @@
+'''
+I'm still a beginner programmer so don't expect the code quality to be great.
+Since I'm still a beginner I had to search a few things up because I didn't know how to do it. (search, os path, sort, save)
+
+This program converts the output of the ferium verbose list command into a markdown file.
+To use this program you need to use ferium to manage your mods (maybe in the future also GDlauncher carbon)
+'''
 # Import all the nessecairy modules
 import humanfriendly as hf
 import subprocess
@@ -30,13 +37,18 @@ try:
 
     # Get verbose mod list from ferium with the command 'ferium list -v'
     print('Getting verbose mod list from ferium ...')
+    
     output = subprocess.check_output(['ferium', 'list', '-v']).decode('utf-8')
     text_block = output.strip().split('\n\n')
     # Create the markdown header
-    header = ['Mod Name + link', 'Mod Authors', 'Desciption', 'Downloads', 'Project ID', 'License']
+    header = ['', 'Mod Name + link', 'Mod Authors', 'Desciption', 'Downloads', 'Project ID', 'License']
     mods = []
+    mod_counter = 0
+    
+    if text_block[0] == '✓':
+        text_block.pop(0)
 
-    print('Converting verbose mod list into seperate strings ...')
+    print('\nConverting verbose mod list into seperate strings ...')
     # Search in each line  for the mod name, link, authors, downloads, project id and license
     for lines in text_block:
         name = re.search(r'^\s*(.+?)\s*$', lines.split('\n')[0]).group(1)
@@ -65,6 +77,7 @@ try:
             desc = line[1]
 
     # Sort the mods by name
+    print('Sorting mods ...')
     mods.sort(key=lambda mod: mod[0].lower())
 
     # Make the top of the markdown table
@@ -75,15 +88,17 @@ try:
     print('Making markdown table ...')
     # Unpack the name and link, author, formatted_downloads, id, license from the list mod in the list mods
     for mod in mods:
+        mod_counter += 1
+        
         name, url, author, formatted_downloads, id, license, desc = mod
         # Add the row of the specific mod
-        markdown += f'| [{name}]({url}) | {author} | {desc} | {formatted_downloads} | {id} | {license} |\n'
+        markdown += f'| {mod_counter} | [{name}]({url}) | {author} | {desc} | {formatted_downloads} | {id} | {license} |\n'
 
     # Save the markdown table to a file in the variable output_path
     with open(f'{output_path}{os.path.sep}{mod_type}MODS.md', 'w', encoding='utf-8') as f:
         f.write(markdown)
 
-    print(f'Done! The {mod_type.lower()} mods have been saved to {output_path}{os.path.sep}{mod_type}MODS.md file.')   
+    print(f'Done! \nSuccesfully sorted {mod_counter} mods and put them in a table. \nThe {mod_counter} {mod_type.lower()} mods have been saved to {output_path}{os.path.sep}{mod_type}MODS.md file.')   
     input("Press enter to exit")
 
 # Stop the program from running if there is an error and print the error out.
